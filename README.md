@@ -76,7 +76,14 @@ The recorded JSONL traces comprise one `init` record plus six or ten `step` reco
 
 The project includes code and recorded outputs for astronomical-data preparation, model training, prediction, evaluation, and formal checks across 18K and 60K experiment workflows. Reproduction depends on the relevant input datasets, configurations, package versions, and run settings.
 
-The full experiment logs, datasets eligible for redistribution, and model checkpoints are being organized as a separate Zenodo research archive. A DOI will be added after publication.
+The associated experimental archive is available on Zenodo: **[10.5281/zenodo.23892124](https://doi.org/10.5281/zenodo.23892124)**. Consult the Zenodo record for deposited files and their applicable reuse conditions.
+
+## Research artifacts
+
+- **Zenodo archive:** [10.5281/zenodo.23892124](https://doi.org/10.5281/zenodo.23892124)
+- **Source repository:** [Shubha-fm/AstroGuard](https://github.com/Shubha-fm/AstroGuard)
+
+The Zenodo DOI identifies the associated research-artifact record, not necessarily a GitHub software release.
 
 ## Author
 
@@ -86,4 +93,4 @@ ORCID: [0009-0000-5015-0478](https://orcid.org/0009-0000-5015-0478)
 
 ## Citation and license
 
-A version-specific citation will be provided when the Zenodo record is published. Please check the repository license and applicable third-party data terms before reuse.
+For research artifacts, use the citation metadata shown on the [Zenodo record](https://doi.org/10.5281/zenodo.23892124). For the source code, cite the repository and its version or commit. Please check the applicable software license and third-party data terms before reuse.
