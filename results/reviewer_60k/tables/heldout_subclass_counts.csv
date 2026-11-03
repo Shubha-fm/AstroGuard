@@ -1,0 +1,10 @@
+broad_class,original_class,heldout_n
+Periodic,LPV,1863
+Periodic,Periodic-Other,2137
+Stochastic,AGN,941
+Stochastic,Blazar,1187
+Stochastic,QSO,1014
+Stochastic,YSO,858
+Transient,SNII,1741
+Transient,SNIa,1348
+Transient,SNIbc,912

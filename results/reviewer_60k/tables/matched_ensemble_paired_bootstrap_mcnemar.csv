@@ -1,0 +1,3 @@
+quantum_model,control_model,n_paired_objects,delta_ensemble_macro_f1,bootstrap_95_low,bootstrap_95_high,discordant_quantum_only_correct,discordant_control_only_correct,exact_mcnemar_p
+quantum24,classical24a,12001,0.0022634030202498545,-0.001185188279685831,0.00566798103614776,228,204,0.2684516107045491
+quantum24,classical24b,12001,-0.0006456616543850657,-0.005077123540252478,0.0035649537401071687,339,350,0.7032550634740932

@@ -1,0 +1,8 @@
+From your local AstroGuard repository root, extract the ZIP so that it creates results/reviewer_60k/.
+
+Check: git status --short
+Then: git add results/reviewer_60k
+Then: git commit -m "Add 60K reviewer evidence, gates and plots"
+Then: git push origin main
+
+Check the repository and the CSVs for sensitive information before committing.
